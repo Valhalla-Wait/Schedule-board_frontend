@@ -1,6 +1,10 @@
 :root {
   /* COLORS */
   /* Default */
+  --background-red-theme: #FB9577;
+  --background-orange-theme: #FECE9D;
+  --background-blue-theme: #BFE8E8;
+  --background-dark-theme: #191F28;
   --color-error-default: #ff0b37;
   --color-mainblue-default: #0062ff;
   --color-success-default: #3dd598;
@@ -30,6 +34,7 @@
   --color-grey700: #696974;
   --color-grey800: #44444f;
   --color-grey900: #171725;
+  --color-input-title: #92929d;
   /* UnNamed */
   --color-unnamed-blue: #0073ff;
   --color-unnamed-lightgray: #dcdce0;
@@ -44,7 +49,8 @@
   --color-grey800-50pct: #44444f80;
   --color-unnamed-blue1-15pct: #c4dbff26;
   --color-unnamed-red-5pct: #ff0b380d;
-
+  /* THEMES */
+  --window-light: #e2e2ea;
   /* FONTS */
   --h1-32_40-bold: 32px/40px 'Inter-Bold';
   --h2-24_32-medium: 24px/32px 'Inter-Medium';
